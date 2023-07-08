@@ -39,3 +39,19 @@
 .blank{
   color: yellow;
 }
+
+
+.App {
+  font-family: sans-serif;
+  min-height: 100vh;
+}
+
+
+
+footer p{
+  align-items: center;
+  object-position: 7px;
+  display: flex;
+  justify-content: center;
+  
+}
